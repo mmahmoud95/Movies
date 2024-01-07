@@ -1,0 +1,6 @@
+.link-hover {
+    cursor: pointer;
+}
+.link-hover:hover {
+    color: blue;
+}

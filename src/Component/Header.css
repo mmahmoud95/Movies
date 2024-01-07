@@ -1,0 +1,9 @@
+.active {
+    background-color: rgba(3, 103, 110, 0.699);
+    text-decoration: none;
+    color: black;
+}
+.nav-link {
+    color: #fff;
+    font-size: 32px;
+}
